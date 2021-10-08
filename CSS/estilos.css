@@ -1,0 +1,26 @@
+#cuerpo{
+    background-color: aqua;
+    }
+#titulo{
+    font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    color: brown;
+    background-color: cadetblue;
+    text-align: center;
+}
+
+.barra-navegacion{
+    background-color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: brown;
+}
+p{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(223, 202, 202);
+    background-color: rgb(129, 114, 102);
+    text-align: center;
+}
+/* OCUPÉ SÓLO UNA HOJA DE ESTILOS PARA DAR COLOR
+Y FONDO A LOS ELEMENTOS. CITÉ 1 "ID", 1 "CLASE" Y 1 PALABRA CLAVE*/
