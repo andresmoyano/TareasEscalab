@@ -1,0 +1,36 @@
+#cuerpo{
+    background: #7D7B7B
+}
+#titulo1{
+   font-size: 2rem;
+   padding: 0%;
+   margin-top: 10px;
+   color: whitesmoke;
+   font-family: Arial, Helvetica, sans-serif;
+   text-align: center;
+}
+p{
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(221, 208, 21);    
+}
+.container{
+    width: 1080px;
+    height: 120px;
+    border: black 3px solid;
+    background-color: whitesmoke;
+}
+#parrafodiv{
+    text-align: center;
+    margin: 1rem;
+}
+.boton1{
+    border-radius: 10px;
+    background: rgb(221, 208, 21);
+    text-align: center;
+    
+}
+.cajatexto{
+    margin-top: 1rem;
+    background: #fff;
+}
